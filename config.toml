@@ -1,4 +1,4 @@
-baseURL = 'https://flagctfj0rik.github.io'
+baseURL = 'https://telljora.github.io/'
 languageCode = 'en-us'
 title = 'MyWriteUP'
 theme = "hugo-blog-awesome"
@@ -84,7 +84,7 @@ url = "https://t.me/Repeter_IB"
 
 [[params.socialIcons]]
 name = "ctftime"
-url = "https://t.me/Repeter_IB"
+url = "https://ctftime.org/team/206982/"
 
 [tableOfContents]
 startLevel = 2 # ToC starts from H2
