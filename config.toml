@@ -38,6 +38,11 @@ disqusShortname = ''
     name = 'About'
     url = '/about/'
     weight = 30
+  [[menu.main]]
+    pageRef="targets"
+    name = 'Targets'
+    url = '/targets/'
+    weight = 40
 
 [params]
   sitename = "MyBlogWriteUP"
